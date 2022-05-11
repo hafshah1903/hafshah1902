@@ -1,0 +1,11 @@
+Model Information:
+* title:	CH 001 - 01 [ZIRA ISAAC] TEST WALK FULL RIG
+* source:	https://sketchfab.com/3d-models/ch-001-01-zira-isaac-test-walk-full-rig-55677ecdb75a4bbe9e62cf2e8e76ebef
+* author:	dogol.tolol (https://sketchfab.com/dogol.tolol)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "CH 001 - 01 [ZIRA ISAAC] TEST WALK FULL RIG" (https://sketchfab.com/3d-models/ch-001-01-zira-isaac-test-walk-full-rig-55677ecdb75a4bbe9e62cf2e8e76ebef) by dogol.tolol (https://sketchfab.com/dogol.tolol) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
