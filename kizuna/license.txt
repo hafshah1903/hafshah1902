@@ -1,0 +1,11 @@
+Model Information:
+* title:	kizuna
+* source:	https://sketchfab.com/3d-models/kizuna-5d6fb8c88c7a4a5582481302f93f6118
+* author:	45646712 (https://sketchfab.com/45646712)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "kizuna" (https://sketchfab.com/3d-models/kizuna-5d6fb8c88c7a4a5582481302f93f6118) by 45646712 (https://sketchfab.com/45646712) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
